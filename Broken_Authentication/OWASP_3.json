@@ -1,6 +1,6 @@
 {
         "country_code": "de",
-        "color": "#ED7D31",
+        "color": "#B0D601",
         "name": "Authentication: Oops, its broken",
         "description": "You need to be logged in as a particular user to access the flag!",
         "hint": "How are the sessions handled here?",

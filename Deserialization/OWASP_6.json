@@ -1,6 +1,6 @@
 {
         "country_code": "se",
-        "color": "#ED7D31",
+        "color": "#B0D601",
         "name": "Ew, Pickles",
         "description": "This flag is stored in a file, flag.txt",
         "hint": "You need to use a reverse shell (:",

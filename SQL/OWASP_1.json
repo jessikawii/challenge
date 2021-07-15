@@ -1,6 +1,6 @@
 {
         "country_code": "gb",
-        "color": "#ED7D31",
+        "color": "#B0D601",
         "name": "Injection 101: SQL",
         "description": "Login to the web application and retrieve the flag!",
         "hint": "or '1'='1'",

@@ -1,6 +1,6 @@
 {
         "country_code": "fr",
-        "color": "#ED7D31",
+        "color": "#B0D601",
         "name": "Injection 102: Who uses Javascript anyway?",
         "description": "A user visits the page every 10 seconds, get their cookie!",
         "hint": "<script></script>",

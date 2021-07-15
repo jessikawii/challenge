@@ -1,6 +1,6 @@
 {
         "country_code": "es",
-        "color": "#ED7D31",
+        "color": "#B0D601",
         "name": "Injection 103: Sprinkle on some Jinja",
         "description": "This flag is stored in the applications secret key, go get it!",
         "hint": "Register first, but bear in mind {{ 7*7 }}",
